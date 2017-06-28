@@ -1,3 +1,4 @@
+package school;
 
 public class Goit {
     public static void main(String[] args){
